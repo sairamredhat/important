@@ -5,5 +5,4 @@
 •	Worked on large environments using configuration tools like chef, ansible, puppet in deploying the code in 300+ system at a time. 
 •	Maintained network and content delivery and user account by using IAM, VPC, Cloud front, Route 53, API Gateway, direct connect, NAT subnets.
 •	Maintain and build applications and Database servers Rds., amazon red shift, DynamoDB’s services in AWS Cloud.
-•	Creating EC2 instances with specific IAM roles
 
