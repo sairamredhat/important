@@ -1,0 +1,8 @@
+6. create a deployment using helm charts and deploy  new code to thesse PODS in step 5
+
+7. Now Create a terraform template to create 4 Ec2 , 3 VPC, 6 RDS instance , 2 CLoud watch alarms  and setup a  ELB with auto scaling group.
+
+8. now Create 10 python scripts with boto3 to create  any 6 AWS services
+
+9. now Create  a nginx kubernetes cluster with 8 PODS
+
