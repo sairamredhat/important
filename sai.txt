@@ -1,0 +1,12 @@
+1. INstall jenkins
+
+2. Create a jenkins pipleine to deploy a code to an application. 
+ 
+
+3. Add a  new slave to the jenkins and execute the same job on the slave
+
+4. Install any 15 plugins in Jenkins
+
+5. Create a kubernetes cluster and deploy cassandra and kafka PODS
+
+6. create a deployment using helm charts and deploy  new code to thesse PODS in step 5
